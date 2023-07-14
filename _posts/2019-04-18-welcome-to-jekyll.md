@@ -1,11 +1,14 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Efficient Multimodal Fusion via Interactive Prompting"
+last_modified_at: 2023-07-14
+excerpt_separator: "<!--more-->"
+date: 2023-07-14
 categories:
   - blog
 tags:
   - Jekyll
   - update
+link: https://github.com
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
