@@ -7,11 +7,12 @@ categories:
   - blog
 tags:
   - CVPR
-  - update
 ---
 
 
-Our paper "Efficient Multimodal Fusion via Interactive Prompting" is accepted on CVPR 2023. Check out the [paper][paper-link], [repo][repo-link] and [video][video-link] for more info.
+Our paper "Efficient Multimodal Fusion via Interactive Prompting" is accepted by CVPR 2023. Check out the [paper][paper-link], [repo][repo-link] and [video][video-link] for more info.
+
+![CVPR 2023 Poster](/assets/images/Slide1.jpeg)
 
 [repo-link]: https://github.com/yaoweilee/PMF
 [paper-link]: https://arxiv.org/abs/2304.06306
